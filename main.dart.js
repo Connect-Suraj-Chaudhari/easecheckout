@@ -63006,7 +63006,7 @@ A.aHW.prototype={
 $0(){var s=0,r=A.x(t.H)
 var $async$$0=A.t(function(a,b){if(a===1)return A.u(b,r)
 while(true)switch(s){case 0:s=2
-return A.q(A.FM(A.eX("ppe://upi/pay?pa=merchant.devraajtechnologies@digikhata&pn=DEVRAAJ%20TECHNOLOGIES%20PVT%20LTD&mc=7994&tid=&tr=TXNSGMI44FP5KXCUDP&tn=Wallet%20Refill&am=3&mam=3&cu=INR&url=&mode=00&sign=&orgid=&mid=&msid=&mtid=",0,null)).b2(new A.aHL(),t.am),$async$$0)
+return A.q(A.FM(A.eX("phonepe://upi/pay?pa=merchant.devraajtechnologies@digikhata&pn=DEVRAAJ%20TECHNOLOGIES%20PVT%20LTD&mc=7994&tid=&tr=TXNSGMI44FP5KXCUDP&tn=Wallet%20Refill&am=3&mam=3&cu=INR&url=&mode=00&sign=&orgid=&mid=&msid=&mtid=",0,null)).b2(new A.aHL(),t.am),$async$$0)
 case 2:return A.v(null,r)}})
 return A.w($async$$0,r)},
 $S:17}
